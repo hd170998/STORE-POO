@@ -12,8 +12,8 @@ public abstract class Objects {
 
     public abstract int getId();
 
-    public abstract void setName();
+    public abstract void setName(String name);
 
-    public abstract void setPrice();
+    public abstract void setPrice(double price);
 
 }

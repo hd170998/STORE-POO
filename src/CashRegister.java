@@ -15,7 +15,8 @@ public class CashRegister {
     public double getExchange() {
         return exchange;
     }
-    public void setExchange(){
+    public void setExchange(double exchange){
+        this.exchange= exchange;
     }
     public void addCostumer(){
     }

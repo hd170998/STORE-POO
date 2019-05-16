@@ -20,12 +20,13 @@ public class HouseholdItems extends Objects{
     }
 
     @Override
-    public void setName() {
+    public void setName(String name) {
 
     }
 
     @Override
-    public void setPrice() {
+    public void setPrice(double price) {
 
     }
+
 }
