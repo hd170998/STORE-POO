@@ -15,4 +15,5 @@ public abstract class Objects {
     public abstract void setName();
 
     public abstract void setPrice();
+
 }
